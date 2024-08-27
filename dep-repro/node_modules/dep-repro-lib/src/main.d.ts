@@ -1,1 +1,1 @@
-import './style.css';
+export declare function abc(): number;

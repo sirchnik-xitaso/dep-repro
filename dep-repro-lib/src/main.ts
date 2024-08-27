@@ -1,5 +1,3 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
-
-createApp(App).mount('#app')
+export function abc(): number {
+  return "a";
+}
